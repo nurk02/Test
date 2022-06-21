@@ -12,6 +12,8 @@ struct ContentView: View {
         ZStack {
             VStack {
                 Text("Udder").font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                Image("diamond").resizable()
+                    .frame(width: 120, height: 100, alignment: .center)
                 Text("Fresh Milk, on Demand")
             }
         }
