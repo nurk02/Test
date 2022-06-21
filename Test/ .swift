@@ -14,7 +14,7 @@ struct ContentView: View {
                 Text("Udder").font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                 Text("Milk design").padding()
                 Text("Fresh Milk, on Demand")
-                Text("bla bla")
+                Text("correct text")
             }
         }
     }
