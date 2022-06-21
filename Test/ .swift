@@ -12,7 +12,7 @@ struct ContentView: View {
         ZStack {
             VStack {
                 Text("Udder").font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
-                Text("Cow design").padding()
+                Text("Milk design").padding()
                 Text("Fresh Milk, on Demand")
             }
         }
