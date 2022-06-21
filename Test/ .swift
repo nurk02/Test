@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             VStack {
-                Text("Udder").font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                Text("Milkies").font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                 Text("Milk design").padding()
                 Text("Fresh Milk, on Demand")
                 Text("correct text")
